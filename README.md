@@ -29,7 +29,7 @@
 ![Project Screenshot](PWA%20Note%20Taker.png)
 
 ## Links
-[Application Link - Open in a new tab](https://warm-bayou-95001-9dd535feacee.herokuapp.com/notes)
+[Application Link - Open in a new tab](https://git.heroku.com/pwatexteditor007.git)
 
 ## Contact Me
 You can reach me at
